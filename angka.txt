@@ -7,6 +7,9 @@ dua
   dua koma dua
   dua koma tiga
 tiga
+  tiga koma satu
+  tiga koma dua
+  tiga koma tiga
 empat
 lima
 enam 
