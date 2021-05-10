@@ -4,6 +4,9 @@ satu
   satu koma tiga
 dua
 tiga
+  tiga koma satu
+  tiga koma dua
+  tiga koma tiga
 empat
 lima
 enam 
