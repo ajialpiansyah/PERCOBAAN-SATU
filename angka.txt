@@ -3,6 +3,8 @@ satu
   satu koma dua
   satu koma tiga
 dua
+  dua koma satu
+  dua koma dua
 tiga
 empat
 lima
