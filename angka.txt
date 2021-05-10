@@ -5,6 +5,7 @@ satu
 dua
   dua koma satu
   dua koma dua
+  dua koma tiga
 tiga
 empat
 lima
