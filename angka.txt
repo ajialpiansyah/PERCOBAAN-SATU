@@ -1,4 +1,7 @@
 satu
+  satu koma satu
+  satu koma dua
+  satu koma tiga
 dua
 tiga
 empat
